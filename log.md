@@ -1,6 +1,6 @@
 # Update log
 
-## [DBA](http://lulab.life.tsinghua.edu.cn/DBA/) 
+## [exRNA](http://lulab.life.tsinghua.edu.cn/exRNA/) 
 
 -----
 **2018年11月22日**
