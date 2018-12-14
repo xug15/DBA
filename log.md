@@ -1,6 +1,18 @@
 # Update log
 
 ## [exRNA](http://lulab.life.tsinghua.edu.cn/exRNA/) 
+-----
+**2018年12月14日**
+
+- Update 
+|ID   |Number   |
+|-    |-        |
+|phs000007  |28 |
+|phs001258  |427|
+|PRJNA400333|203|
+|SRP130149  |14 |
+
+(http://lulab.life.tsinghua.edu.cn/DBA/datasets.php)
 
 -----
 **2018年11月22日**
