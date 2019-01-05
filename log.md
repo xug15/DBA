@@ -2,6 +2,11 @@
 
 ## [exRNA](http://lulab.life.tsinghua.edu.cn/exRNA/) 
 -----
+**2018年12月31日**
+Add 170 data (exorbase) into genome browse. 
+http://lulab.life.tsinghua.edu.cn/exRNA/genomebrowse/index.php 
+
+
 **2018年12月14日**
 
 - Update  
