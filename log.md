@@ -2,6 +2,13 @@
 
 ## [exRNA](http://lulab.life.tsinghua.edu.cn/exRNA/) 
 -----
+**2019年1月3日**   
+1.Biomarker:  
+- [CRC RNA Biomarker](https://drive.google.com/drive/folders/1J14ofoA8eqesAltQNyEEEnlX6Mctvu5x)
+- [PC RNA Biomarker](https://drive.google.com/drive/folders/1BSGB451QVdzcF6Gn7HIJWynKa7IeWJLn)
+- [PSC RNA Biomarker](https://drive.google.com/drive/folders/17qHiqubKZj5McdRTpKBsylHssCy6Q1P_)
+
+
 **2018年12月31日**  
 
 Add 170 data (exorbase) into [genome browse](http://lulab.life.tsinghua.edu.cn/exRNA/genomebrowse/index.php 
